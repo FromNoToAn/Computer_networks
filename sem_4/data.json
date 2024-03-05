@@ -1,0 +1,39 @@
+{
+  "parse https://www.nsu.ru/n": [
+    {
+      "Page": 1,
+      "Page title": "\u0417\u0430\u0447\u0451\u0442\u043d\u0430\u044f \u043a\u043d\u0438\u0436\u043a\u0430",
+      "Page URL": "https://cab.nsu.ru/student/grade",
+      "Number of letters in content": 1390,
+      "Number of numbers in content": 117
+    },
+    {
+      "Page": 2,
+      "Page title": "\u0421\u043f\u0438\u0441\u043e\u043a \u043f\u0440\u0438\u043a\u0430\u0437\u043e\u0432",
+      "Page URL": "https://cab.nsu.ru/student/orders",
+      "Number of letters in content": 988,
+      "Number of numbers in content": 192
+    },
+    {
+      "Page": 3,
+      "Page title": "\u041c\u043e\u044f \u0433\u0440\u0443\u043f\u043f\u0430",
+      "Page URL": "https://cab.nsu.ru/student/group",
+      "Number of letters in content": 429,
+      "Number of numbers in content": 0
+    },
+    {
+      "Page": 4,
+      "Page title": "\u041f\u043e\u0440\u0442\u0444\u043e\u043b\u0438\u043e",
+      "Page URL": "https://cab.nsu.ru/student/portfolio",
+      "Number of letters in content": 829,
+      "Number of numbers in content": 15
+    },
+    {
+      "Page": 5,
+      "Page title": "\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0441\u043f\u0440\u0430\u0432\u043a\u0443",
+      "Page URL": "https://cab.nsu.ru/student/doc-order",
+      "Number of letters in content": 779,
+      "Number of numbers in content": 11
+    }
+  ]
+}

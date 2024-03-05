@@ -1,0 +1,8 @@
+Only links from 'nav-link' that do not have other classes were selected
+Page,Page title,Page URL,Number of letters in content,Number of numbers in content
+
+1,Зачётная книжка,https://cab.nsu.ru/student/grade,1390,117
+2,Список приказов,https://cab.nsu.ru/student/orders,988,192
+3,Моя группа,https://cab.nsu.ru/student/group,429,0
+4,Портфолио,https://cab.nsu.ru/student/portfolio,829,15
+5,Заказать справку,https://cab.nsu.ru/student/doc-order,779,11
